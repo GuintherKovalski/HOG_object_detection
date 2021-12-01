@@ -1,0 +1,1 @@
+# HOG based object detection
