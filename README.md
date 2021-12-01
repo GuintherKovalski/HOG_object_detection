@@ -12,8 +12,12 @@ And the folowwing results were obtained:
 
 The object bolding box **before Non-Maximum Supression**:
 
+![alt text](https://github.com/GuintherKovalski/HOG_object_detection/blob/main/imgs/pre_detect.png)
+
 
 The object bolding box **after Non-Maximum Supression**:
+
+![alt text](https://github.com/GuintherKovalski/HOG_object_detection/blob/main/imgs/NMS.png)
 
 You can download the dataset here:
 
