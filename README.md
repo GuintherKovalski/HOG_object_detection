@@ -6,7 +6,14 @@ This repo shows the code used in the paper [https://1drv.ms/b/s!ApdlapclXdxHgrRU
 
 And the folowwing results were obtained:
 
+![alt text](https://github.com/GuintherKovalski/HOG_object_detection/blob/main/imgs/RESULT_.png)
 
+![alt text](https://github.com/GuintherKovalski/HOG_object_detection/blob/main/imgs/FRESULT_NON_NMS.png)
+
+The object bolding box **before Non-Maximum Supression**:
+
+
+The object bolding box **after Non-Maximum Supression**:
 
 You can download the dataset here:
 
