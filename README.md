@@ -4,7 +4,7 @@ This repo shows the code used in the paper [https://1drv.ms/b/s!ApdlapclXdxHgrRU
 
 ![alt text](https://github.com/GuintherKovalski/HOG_object_detection/blob/main/imgs/esquematico.jpg)
 
-And the folowwing results were obtained:
+And the following results were obtained:
 
 ![alt text](https://github.com/GuintherKovalski/HOG_object_detection/blob/main/imgs/RESULT_.png)
 
