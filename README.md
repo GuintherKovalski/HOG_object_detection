@@ -1,6 +1,6 @@
 # HOG based object detection
 
-This repo shows the code used in the paper [https://1drv.ms/b/s!ApdlapclXdxHgrRUb5FLmmwOirHbEw?e=8HwifM]. It is based in the following idead: 
+This repo shows the code used in the paper [https://1drv.ms/b/s!ApdlapclXdxHgrRUb5FLmmwOirHbEw?e=8HwifM]. It is based in the following idea: 
 
 ---------- image -----------
 
